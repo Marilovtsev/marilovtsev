@@ -2,7 +2,7 @@
 
 ## I`m a QA engineer and beginner Python developer
 
-## Language and Tools
+### Tools and language
 ![Jira](https://img.shields.io/badge/-Jira-020F0D?style=for-the-badge&logo=Jira&logoColor=2580F7)
 ![Asana](https://img.shields.io/badge/-Asana-020F0D?style=for-the-badge&logo=Asana&logoColor=F76685)
 ![TestRail](https://img.shields.io/badge/-TestRail-020F0D?style=for-the-badge&logo=Testpail&logoColor=2580F7)
@@ -12,4 +12,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-020F0D?style=for-the-badge&logo=Github&logoColor=F2F2F2)
 ![Python](https://img.shields.io/badge/-Python-020F0D?style=for-the-badge&logo=Python&logoColor=F2C63E)
 
-Follow Me
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-020F0D?style=for-the-badge&logo=telegram&logoColor=26A2E0)](https://t.me/dmytmar)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-020F0D?style=for-the-badge&logo=Linkedin&logoColor=0077B7)](https://www.linkedin.com/in/dmitry-marilovtsev/)
+[![Facebook](https://img.shields.io/badge/-Facebook-020F0D?style=for-the-badge&logo=facebook&logoColor=1771E6)](https://www.facebook.com/Marilovcev/)
