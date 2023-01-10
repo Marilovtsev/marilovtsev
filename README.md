@@ -16,5 +16,3 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-020F0D?style=for-the-badge&logo=telegram&logoColor=26A2E0)](https://t.me/dmytmar)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-020F0D?style=for-the-badge&logo=Linkedin&logoColor=0077B7)](https://www.linkedin.com/in/dmitry-marilovtsev/)
 [![Facebook](https://img.shields.io/badge/-Facebook-020F0D?style=for-the-badge&logo=facebook&logoColor=1771E6)](https://www.facebook.com/Marilovcev/)
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Marilovtsev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
